@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mochammadkevin&label=Profile%20views&color=0e75b6&style=flat" alt="mochammadkevin" /> </p>
 
-<p align="left"> <a href="https://twitter.com/sneakievoid" target="blank"><img src="https://img.shields.io/twitter/follow/sneakievoid?logo=twitter&style=for-the-badge" alt="sneakievoid" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://mochammadkevin.github.io/](https://mochammadkevin.github.io/)
 
 - 📫 How to reach me **kevinariobimo@gmail.com**
