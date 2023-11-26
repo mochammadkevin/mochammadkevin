@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Mochammad Kevin Ariobimo</h1>
-<h3 align="center">A second-year computer science student at IPB University. Passionate about all of the things related to technology, especially front-end dev.</h3>
+<h3 align="center">A third-year computer science student at IPB University. Passionate about all of the things related to technology, especially front-end dev.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mochammadkevin&label=Profile%20views&color=0e75b6&style=flat" alt="mochammadkevin" /> </p>
 
