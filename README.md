@@ -6,5 +6,6 @@ When I’m not deep in code, I’m probably lost in music or squeezing in a work
 
 I love building and optimizing products, mostly with **PHP, TypeScript, JavaScript, and Vue**—but I’m always up for a challenge. If a different language or framework makes more sense, I’ll dive right in.
 
-Let’s connect!  
-📧 [kevinariobimo@gmail.com](mailto:kevinariobimo@gmail.com)
+Let’s connect:  
+- 📧 [kevinariobimo@gmail.com](mailto:kevinariobimo@gmail.com)
+- 🎵 Into music? Check out my playlist on **[Spotify](https://open.spotify.com/user/r7mjlhvhz32zs55joz4ov1li2?si=45fe126037254224)**!
