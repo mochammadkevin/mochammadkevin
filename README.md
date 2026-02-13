@@ -1,6 +1,6 @@
 # Hey, I'm Kevin! 👋  
 
-I'm a Product Engineer at Dicoding, currently in my final year of university.  
+I'm a Product Engineer at Dicoding.  
 
 When I’m not deep in code, I’m probably lost in music or squeezing in a workout at home. No specific genre rules my playlist—if it sounds good, I’m all in. Working out helps me reset after long hours in front of a screen, keeping both my body and mind in check.  
 
