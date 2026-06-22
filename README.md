@@ -1,11 +1,23 @@
-# Hey, I'm Kevin! 👋  
+# Mochammad Kevin Ariobimo
 
-I'm a Product Engineer at Dicoding.  
+### Product Engineer at [Dicoding](https://www.dicoding.com)
 
-When I’m not deep in code, I’m probably lost in music or squeezing in a workout at home. No specific genre rules my playlist—if it sounds good, I’m all in. Working out helps me reset after long hours in front of a screen, keeping both my body and mind in check.  
+I build and optimize features for one of Indonesia's largest online learning platforms, powering scholarship programs from partners like AWS, Microsoft, Google, IBM, and DBS, among many others, that serve tens of thousands of people each.
 
-I love building and optimizing products, mostly with **PHP, TypeScript, JavaScript, and Vue**—but I’m always up for a challenge. If a different language or framework makes more sense, I’ll dive right in.
+Most of my work lives in the parts users never see but always feel: registration and enrollment flows, token redemption, integration testing, and the SQL validation that keeps multi-program data honest. I lean on Domain-Driven Design and TDD, and I spend more time refactoring legacy code into something maintainable than I'd like to admit.
 
-Let’s connect:  
-- 📧 [kevinariobimo@gmail.com](mailto:kevinariobimo@gmail.com)
-- 🎵 Into music? Check out my playlist on **[Spotify](https://open.spotify.com/user/r7mjlhvhz32zs55joz4ov1li2?si=45fe126037254224)**!
+My default stack is PHP, TypeScript, JavaScript, and Vue, but I don't marry a language. If something else is the right tool, I'll learn it on the way to shipping.
+
+I care more about the decision than the code. Most of my best work happens before a single line gets written, figuring out what's actually worth building and why.
+
+### Off the clock
+
+I'm usually working out at home to reset after a long screen day, or buried in a playlist with zero genre rules. If it sounds good, it's in.
+
+---
+
+**Reach me**
+
+- kevinariobimo@gmail.com
+- [LinkedIn](https://linkedin.com/in/mochammadkevin)
+- [Spotify](https://open.spotify.com/user/r7mjlhvhz32zs55joz4ov1li2?si=45fe126037254224), in case you're curious what's on repeat
